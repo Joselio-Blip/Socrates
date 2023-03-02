@@ -1,2 +1,2 @@
-# Remote
+# Local
 There is only one good, knowledge, and one evil, ignorance.
